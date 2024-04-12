@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... c++,java,javascript,python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Mrinaltrivedi2000@gmail.com
+- 📫 How to reach me ... Mrinaltrivediom@gmail.com
 
 <!---
 Graceful-Hammer/Graceful-Hammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
