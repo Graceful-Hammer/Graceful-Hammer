@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrinal trivedi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... c++,java,javascript,python
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning ... Expressjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Mrinaltrivediom@gmail.com
 
